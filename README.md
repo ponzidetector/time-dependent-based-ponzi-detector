@@ -6,7 +6,7 @@ To run experiment we need to follow steps below:
 
 ### 1. Data Collecting
   Ethereum transaction data should be downloaded from [XBLOCK](http://xblock.pro/xblock-eth.html) repository. 
-  After download 2 datasets *Block Transaction* and *Internal Transaction*, 
+  After downloading 2 datasets *Block Transaction* and *Internal Transaction*, 
   transaction should be filter data from 2 address lists [Ponzi](https://github.com/ponzidetector/time-dependent-based-ponzi-detector/blob/master/data/Ponzi.csv) 
   and [Non-Ponzi](https://github.com/ponzidetector/time-dependent-based-ponzi-detector/blob/master/data/nonPonzi.csv). 
   Then the data should be grouped by contract and saved into `project/data/transactions/`
