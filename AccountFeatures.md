@@ -1,3 +1,8 @@
+
+## Account feature list
+The list of different account features, which are used to represent the general
+characteristics of an application, are given below
+
 | Feature  | Description |
 | ------------- | ------------- |
 | total_inv_amt  | total ETH amount sent to a contract   |
